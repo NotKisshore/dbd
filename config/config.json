@@ -1,0 +1,9 @@
+{
+    "clientID":"955736116940648488",
+    "clientSecret":"RJsbPlw9_49jVNH6shqRbw32vde0aoSi",
+    "callbackURL":"http://192.168.0.101:3000/login/api",
+    "Admin":["950613304991182928"],
+    "token":"OTU1NzM2MTE2OTQwNjQ4NDg4.YjmAng.ZghIN2suulaWM93fzG5A7eWbjW8",
+    "prefix":"-",
+    "port":"3000"
+}
